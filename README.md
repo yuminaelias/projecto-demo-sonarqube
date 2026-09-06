@@ -1,4 +1,4 @@
-# Projecto Demo — Sessão Prática de SonarQube
+# Projecto Demo — Sessão Práctica de SonarQube
 
 Pequeno projecto em Python, partilhado pelo Grupo 3 com toda a turma, para a sessão
 prática de análise de qualidade de código com o SonarQube. Usar o **mesmo código**
